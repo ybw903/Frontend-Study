@@ -1,3 +1,5 @@
-## Javascript Study
+## Frontend Study
+
+프론트엔드 관련 학습한 내용을 정리해둡니다.
 
 자바스크립트 학습한 내용을 정리해둡니다.
